@@ -9,10 +9,11 @@ The program allows adding assignments, searching by subject, displaying all assi
 
 - ➕ Add new assignments  
 - 📋 Display all assignments  
-- 🔍 Search assignment by subject  
+- 🔍 Search assignments by subject  
 - 🔄 Update assignment status (Pending / Completed)  
 - 🆔 Automatic assignment ID generation  
-- 🧩 Modular programming using `header` and `utility` files
+- 🧩 Modular programming using `header` and `utility` files  
+- 💾 Uses array-based tracking system
 
 ---
 
